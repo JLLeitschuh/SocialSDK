@@ -381,7 +381,7 @@ Source code is available at https://github.com/OpenNTF/SocialSDK
 			<dependency>
 				<groupId>junit</groupId>
 				<artifactId>junit</artifactId>
-				<version>4.11</version>
+				<version>4.13.1</version>
 			</dependency>
 			<dependency>
 				<groupId>org.apache.james</groupId>
